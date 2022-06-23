@@ -52,7 +52,8 @@ p:last-child{margin-bottom: 0 !important; font-family: 'Roboto', sans-serif;}
 li{list-style: none;text-decoration: none;}
 blockquote {border-left: 2px solid;padding: 10px 15px 10px 35px;margin: 25px 0;font-size: 18px;line-height: 28px;margin-top: 32px;margin-bottom: 32px;}
 blockquote > cite {font-weight: 400;font-size: 14px;display: block;}
-section{padding: 7.5rem 0;}
+section{padding: 7.5rem;}
+section.banner { padding: 0; }
 .padding-bottom {padding-bottom: 7.5rem;}
 .padding-top {padding-top: 120px;}
 h1, h2, h3, h4, h5, h6 {

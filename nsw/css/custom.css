@@ -353,3 +353,10 @@ background: #2ECC71
 .list-timeline.list-timeline-green-bright .list-timeline-item:before {
 border-color: #2ECC71
 }
+
+/* others */
+ul.banner-des li {
+  list-style-type: square;
+  padding-left: 10px;
+  margin-left: 20px;
+}
