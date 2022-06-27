@@ -1917,7 +1917,7 @@ header a.logo img {
     .banner-area{
         padding-top: 150px;
         padding-bottom: 10px;
-        text-align: center;
+        /* text-align: center; */
     }
     /*about-sec*/
     .about-heading {
