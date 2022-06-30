@@ -396,3 +396,8 @@ ul.banner-des li {
     max-width: 100%;
   }
 }
+
+p span.tiny {
+  font-size: small;
+  color: #888;
+}
