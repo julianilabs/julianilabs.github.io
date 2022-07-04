@@ -401,3 +401,8 @@ p span.tiny {
   font-size: small;
   color: #888;
 }
+
+p span.tiny a {
+  text-decoration: underline;
+  color:#00ADBB;
+}
